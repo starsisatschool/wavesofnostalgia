@@ -1,1 +1,103 @@
+body{
+  background-image: url("gameboy.png");
+  text-align: center;
+}
 
+h1{
+  text-align: center;
+  color: #586677;
+  font-family: cursive;
+  font-size: 79px;
+}
+h2{
+  font-weight: bold;
+  font-family: cursive;
+  font-size: 41px;
+  text-align: center;
+  letter-spacing: 4px;
+}
+h3{
+  font-weight: bold;
+  font-family: cursive;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 4px;
+}
+a{
+  font-size: 39.5px;
+  text-align: center;
+  font-family: cursive;
+}
+.title{
+  border: solid 7px;
+  border-color: #151943;
+  border-radius: 10px;
+  font-family: cursive;
+  border-style: groove;
+  background-color: #140e11;
+}
+.title2{
+  border: solid 7px;
+  border-color: #3f6579;
+  border-radius: 10px;
+  color: cadetblue;
+  font-family: cursive;
+  border-style: groove;
+  background-color: #140e11;
+}
+.text{
+  border: solid 7px;
+  border-color: #4e3f79;
+  border-radius: 10px;
+  color: #6233a3;
+  font-family: cursive;
+  border-style: groove;
+  background-color: #140e11;
+  font-size: 22.9px;
+}
+.link{
+  border: solid 7px;
+  border-color: #3f795a;
+  border-radius: 10px;
+  color: #6233a3;
+  font-family: cursive;
+  border-style: groove;
+  background-color: #140e11;
+  text-align: center;
+  float: right;
+}
+.list{
+  border: solid 7px;
+  border-color: #794a3f;
+  border-radius: 10px;
+  color: #a34f33;
+  font-family: cursive;
+  border-style: groove;
+  background-color: #140e11;
+  font-size: 22px;
+}
+
+.listl{
+  color: #a34f33;
+  font-family: cursive;
+  background-color: #140e11;
+  font-size: 25px;
+}
+.small{
+  font-size: 22px;
+  color: blue;
+}
+.pen {
+  color: #25193e;
+  text-align: center;
+  font-size: 25px;
+  font-family: cursive;
+  text-shadow: 1px 1px #000000;
+}
+img{
+  float: right;
+  border-color: #cf69ff;
+  border-width: 8px;
+  border-style: groove;
+  border-radius: 20px;
+}
