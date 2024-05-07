@@ -1,0 +1,53 @@
+body{
+  background-image: url("synth.jpg");
+}
+
+h1{
+  text-align: center;
+  color: #ff007d;
+  font-family: cursive;
+  font-size: 79px
+}
+
+p{
+  text-align: center;
+  font-size: 39.5px;
+  color: #5d3f79;
+}
+
+a{
+  font-size: 39.5px;
+  text-align: center;
+  font-family: cursive;
+}
+.title{
+  border: solid 7px;
+  border-color: #5d3f79;
+  border-radius: 10px;
+  color: #ff007d;
+  font-family: cursive;
+  border-style: groove;
+  background-color: #140e11;
+}
+.text{
+  border: solid 7px;
+  border-color: #793f78;
+  border-radius: 10px;
+  color: #5d3f79;
+  font-family: cursive;
+  border-style: groove;
+  background-color: #140e11;
+}
+.link{
+  border: solid 7px;
+  border-color: #3f795a;
+  border-radius: 10px;
+  color: #33a348;
+  font-family: cursive;
+  border-style: groove;
+  background-color: #140e11;
+}
+.small{
+  font-size: 22px;
+    color: whitesmoke;
+}
